@@ -7,7 +7,7 @@
     max-width: 96%;
 }
 .card-area-start{
-    background-color: blueviolet;
+    background-color: white;
     padding: 50px 0 50px 0;
 }
 .card{
@@ -16,7 +16,7 @@
     grid-gap: 30px;
 }
 .box{
-    background-color: aqua;
+    background-color: white;
     border: 5px;
     padding: 40px;
     border-radius: 15px solid;
